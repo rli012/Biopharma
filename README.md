@@ -1,3 +1,3 @@
 # Biopharma
 
-### Bin Chen Lab @ MSU(http://binchenlab.org/)
+### [Bin Chen Lab @ MSU](http://binchenlab.org/)
