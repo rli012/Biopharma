@@ -9,6 +9,13 @@
 
 ### [转化医学网](https://www.360zhyx.com/)  
 
+### Drug databases
+
+* [Drug Infromation Portal](https://druginfo.nlm.nih.gov/drugportal/)
+* [Drug Central](http://drugcentral.org/)
+* [Drugs@FDA Data Files](https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files)
+* [Drugs@FDA: FDA-Approved Drugs](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm)
+
 
 ### Disease
 
