@@ -15,7 +15,7 @@
 * [Drug Central](http://drugcentral.org/)
 * [Drugs@FDA Data Files](https://www.fda.gov/drugs/drug-approvals-and-databases/drugsfda-data-files)
 * [Drugs@FDA: FDA-Approved Drugs](https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm)
-
+* [Drug.com](https://www.drugs.com/)
 
 ### Disease
 
