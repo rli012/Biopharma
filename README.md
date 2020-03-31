@@ -44,6 +44,8 @@ While there's no cure for rheumatoid arthritis, physiotherapy and medication can
 #### Stats
 More than 200,000 US cases per year
 
+#### Pathogenesis
+
 #### Diagnosis
 #### Stratification
 #### Prognosis
