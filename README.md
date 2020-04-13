@@ -66,3 +66,8 @@ More than 200,000 US cases per year
 #### Cell Lines
 * Hot Tumor
 * Cold Tumor
+
+#### New technologies
+* Single Cell Sequencing
+* Real World Data
+* TCR-Antigen Map
