@@ -4,6 +4,16 @@
 
 ![](https://github.com/rli012/Biopharma/blob/master/Clinical-Trial-600.jpg)
 
+## Companies
+
+* [AbbVie](https://www.abbvie.com/)
+* [Amgen](https://www.amgen.com/)
+* [AstraZeneca](https://www.astrazeneca.com/)
+* [Genentech](https://www.gene.com/)
+* [Gilead Sciences](https://www.gilead.com/)
+* [Pfizer](https://www.pfizer.com/)
+* [Roche](https://www.roche.com/)
+
 
 ### [Bin Chen Lab @ MSU](http://binchenlab.org/)  
 
