@@ -9,10 +9,19 @@
 * [AbbVie](https://www.abbvie.com/)
 * [Amgen](https://www.amgen.com/)
 * [AstraZeneca](https://www.astrazeneca.com/)
+* [Bristol Myers Squibb/BMS](https://www.bms.com/)
+* [Eli Lilly](https://www.lilly.com/)
 * [Genentech](https://www.gene.com/)
 * [Gilead Sciences](https://www.gilead.com/)
+* [GlaxoSmithKline/GSK](https://us.gsk.com/en-us/)
+* [Johnson & Johnson](https://www.jnj.com/)
+* [Merck/MSD](https://www.merck.com/)
+* [Novartis](https://www.novartis.com/)
+* [Novo Nordisk](https://www.novonordisk.com/)
 * [Pfizer](https://www.pfizer.com/)
 * [Roche](https://www.roche.com/)
+* [Sanofi](https://www.sanofi.com/)
+
 
 
 ### [Bin Chen Lab @ MSU](http://binchenlab.org/)  
