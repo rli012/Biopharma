@@ -6,6 +6,8 @@
 
 ## Companies
 
+![](https://github.com/rli012/Biopharma/blob/master/PE50 1-10.png)
+
 * [AbbVie](https://www.abbvie.com/)
 * [Amgen](https://www.amgen.com/)
 * [AstraZeneca](https://www.astrazeneca.com/)
