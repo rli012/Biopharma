@@ -1,12 +1,13 @@
 # Biopharma
 
-## [FDA: The Drug Development Process](https://www.fda.gov/patients/learn-about-drug-and-device-approvals/drug-development-process)
-
-![](https://github.com/rli012/Biopharma/blob/master/Clinical-Trial-600.jpg)
-
 ## Companies
 
 ![](https://github.com/rli012/Biopharma/blob/master/PE50_1-10.png)
+![](https://github.com/rli012/Biopharma/blob/master/PE50_11-20.png)
+![](https://github.com/rli012/Biopharma/blob/master/PE50_21-30.png)
+![](https://github.com/rli012/Biopharma/blob/master/PE50_31-40.png)
+![](https://github.com/rli012/Biopharma/blob/master/PE50_41-50.png)
+
 
 * [AbbVie](https://www.abbvie.com/)
 * [Amgen](https://www.amgen.com/)
@@ -23,6 +24,12 @@
 * [Pfizer](https://www.pfizer.com/)
 * [Roche](https://www.roche.com/)
 * [Sanofi](https://www.sanofi.com/)
+
+
+
+## [FDA: The Drug Development Process](https://www.fda.gov/patients/learn-about-drug-and-device-approvals/drug-development-process)
+
+![](https://github.com/rli012/Biopharma/blob/master/Clinical-Trial-600.jpg)
 
 
 
